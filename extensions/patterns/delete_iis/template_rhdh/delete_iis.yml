@@ -8,9 +8,8 @@ metadata:
     operating system
   namespace: default
   tags:
-    - aap-operations
-    - intermediate
-    - windows
+    - delete-iis
+    - windows-ops
 spec:
   type: service
   parameters:

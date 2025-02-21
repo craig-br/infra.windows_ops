@@ -8,8 +8,7 @@ metadata:
     operating system
   namespace: default
   tags:
-    - aap-operations
-    - intermediate
+    - create-iis
     - windows
 spec:
   type: service
